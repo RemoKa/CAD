@@ -1,1 +1,9 @@
-# CAD
+- [x] Create task List
+- [ ] 3D Camera controls
+- [ ] Point renderer
+- [ ] Line renderer
+- [ ] Sketch plane
+- [ ] Grid shader
+- [ ] Line drawing
+- [ ] Line intersection splitting
+- [ ] Sketch face plane creation and selection
